@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ангелина Дорашева](https://up.htmlacademy.ru/javascript/18/user/280899).
-* Наставник: `Неизвестно`.
+* Наставник: `Неть`.
 
 ---
 
